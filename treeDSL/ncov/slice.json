@@ -42,7 +42,7 @@
       "Subtree": {
         "Relation": "flatten",
         "Margin": 0,
-        "SortingCriteria": "value",
+        "SortingCriteria": "confirmedCount",
         "SortingOrder": "desc"
       }
     },
